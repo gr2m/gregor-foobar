@@ -9,10 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gr2m/gregor-foobar.git"
-  },
+  "repository": "github:gr2m/gregor-foobar",
   "devDependencies": {
     "semantic-release": "^4.3.5"
   }
